@@ -1,0 +1,113 @@
+%!Adobe-FontList 1.11
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Abstract
+FamilyName:Abstract
+StyleName:Regular
+FullName:Abstract
+MenuName:Abstract
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Dropbox\Profusion\ON HOLD PROJECTS\ori.exe\Font\ABSTRACT.TTF
+DataFormat:sfntData
+FileLength:38168
+FileModTime:1036376924
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\Dropbox\Profusion\ON HOLD PROJECTS\ori.exe\Font\Orbitron SIL OFL Font License 1.1.txt
+FileModTime:1329346485
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Orbitron-Black
+FamilyName:Orbitron
+StyleName:Black
+FullName:Orbitron Black
+MenuName:Orbitron
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Dropbox\Profusion\ON HOLD PROJECTS\ori.exe\Font\orbitron-black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:20232
+FileModTime:1329346485
+WeightClass:900
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Orbitron-Bold
+FamilyName:Orbitron
+StyleName:Bold
+FullName:Orbitron Bold
+MenuName:Orbitron
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\Dropbox\Profusion\ON HOLD PROJECTS\ori.exe\Font\orbitron-bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:20388
+FileModTime:1329346485
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Orbitron-Light
+FamilyName:Orbitron
+StyleName:Light
+FullName:Orbitron Light
+MenuName:Orbitron
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Dropbox\Profusion\ON HOLD PROJECTS\ori.exe\Font\orbitron-light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:19344
+FileModTime:1329346485
+WeightClass:300
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Orbitron-Medium
+FamilyName:Orbitron
+StyleName:Medium
+FullName:Orbitron Medium
+MenuName:Orbitron
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Dropbox\Profusion\ON HOLD PROJECTS\ori.exe\Font\orbitron-medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:19256
+FileModTime:1329346485
+WeightClass:500
+WidthClass:5
+AngleClass:0
+%EndFont
+
